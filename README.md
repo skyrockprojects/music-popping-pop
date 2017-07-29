@@ -1,1 +1,1 @@
-# music-tech-programming
+# music-tech-programming with Ableton Live & Max MSP
