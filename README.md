@@ -1,1 +1,1 @@
-# music-tech-programming with Ableton Live, Max MSP & DIY Hardware (Arduino & Etc.)
+# music-tech-programming with Ableton Live, Max MSP & DIY Hardware (DIY Midi Board, Arduino, Misc. Sensors, OSC, Etc.)
